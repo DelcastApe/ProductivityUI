@@ -34,5 +34,5 @@ ProductivityUI es una app minimalista de productividad pensada para usarse como 
 **Pasos**
 1. Clonar el repo:
    ```bash
-   git clone https://github.com/<tu-usuario>/ProductivityUI.git
+   git clone https://github.com/DelcastApe/ProductivityUI.git
    cd ProductivityUI
